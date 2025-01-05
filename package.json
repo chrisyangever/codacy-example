@@ -1,0 +1,18 @@
+{
+  "name": "codacy-example",
+  "version": "1.0.0",
+  "description": "For testing Codacy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisyangever/codacy-example/issues"
+  },
+  "homepage": "https://github.com/chrisyangever/codacy-example#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
